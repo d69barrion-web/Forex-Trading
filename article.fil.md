@@ -2,11 +2,11 @@
 
 *Isang personal na journal tungkol sa aking mga karanasan, mga natutuhan, mga pagkakamali, at mga bagong kaalaman habang pinag-aaralan ko ang Forex gamit ang demo trading.*
 
-> **Mahalagang paalala:** Ito ay personal kong learning journal at hindi financial advice. Ang layunin ng paggamit ko ng demo account ay matutunan kung paano gumagana ang trading nang hindi muna nanganganib ng totoong pera.
+> **Mahalagang paalala:** Ito ay personal kong learning journal at hindi financial advice. Ang layunin ng paggamit ko ng demo account ay matutunan kung paano gumagana ang trading nang hindi muna nanganganib ang totoong pera.
 
 ## Bakit Ako Nagsimula sa Demo Trading
 
-Naging interesado ako sa Forex trading at gusto kong maintindihan kung ano talaga ang nangyayari kapag pinindot ng isang trader ang **BUY** o **SELL**.
+Naging interesado ako sa Forex trading dahil gusto kong maintindihan kung ano talaga ang nangyayari kapag pinindot ng isang trader ang **BUY** o **SELL**.
 
 Sa halip na agad gumamit ng totoong pera, nagpasya muna akong matuto gamit ang demo account.
 
@@ -30,7 +30,7 @@ Habang mas marami akong sinusubukan, mas napagtanto ko na ang Forex ay hindi lam
 
 Maliit muna ang position size ng mga unang trade ko. Gusto kong makita kung paano naaapektuhan ng kahit maliit na galaw ng EUR/USD ang profit o loss.
 
-Isa sa mga unang demo trade ko ay gumamit ng **0.01 lot**.
+Isa sa mga unang demo trade ko ay gumamit ako ng **0.01 lot**.
 
 Kaunti lamang ang naging galaw ng presyo, pero nakita kong nagbabago rin ang resulta ng trade nang real time. Isa iyon sa mga unang pagkakataon na naintindihan ko na direktang konektado ang mga numero sa chart sa laki ng position.
 
@@ -122,7 +122,7 @@ Kaya isa sa mga natutuhan ko ay:
 
 ## Market Orders, Limit Orders at Stop Orders
 
-Isa pa sa mga nakakatuwang discovery ko ay hindi lamang BUY at SELL ang paraan ng pag-iisip tungkol sa pagpasok sa isang trade.
+Isa pa sa mga nakakatuwang discovery ko ay hindi lamang pala BUY at SELL ang paraan ng pag-iisip tungkol sa pagpasok sa isang trade.
 
 Natutuhan ko ang tungkol sa:
 
@@ -135,7 +135,7 @@ Natutuhan ko ang tungkol sa:
 
 Noong una, parang ang komplikado ng mga pangalan.
 
-Pero nang subukan ko ang mga ito, nakita ko ang logic: **parang sinasabi ko lang sa platform kung anong kondisyon ng presyo ang dapat mangyari bago ito pumasok sa trade.**
+Pero nang subukan ko ang mga ito, nakita ko ang logic: **parang sinasabi ko lang pala sa platform kung anong kondisyon ng presyo ang dapat mangyari bago ito pumasok sa trade.**
 
 ## Ang Pinakamalaking Aral Ko Sa Ngayon
 
