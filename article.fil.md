@@ -13,7 +13,7 @@ Sa halip na agad gumamit ng totoong pera, nagpasya muna akong matuto gamit ang d
 Dahil dito, nagkaroon ako ng pagkakataong pag-aralan ang mga bagay na noong una ay medyo nakakalito para sa akin:
 
 - currency pairs gaya ng [EUR/USD](https://share.google/MGwFbfywCw43CJSzP)
-- BUY at [SELL](Buy sell.buy&sell.html) orders
+- [BUY at SELL](/buy&sell.html) orders
 - lot size
 - pips
 - spread
