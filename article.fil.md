@@ -6,7 +6,7 @@
 
 ## Bakit Ako Nagsimula sa Demo Trading
 
-Naging interesado ako sa Forex trading dahil gusto kong maintindihan kung ano talaga ang nangyayari kapag pinindot ng isang trader ang **BUY** o **SELL**.
+Naging interesado ako sa [Forex](https://en.wikipedia.org/wiki/Foreign_exchange_market) trading dahil gusto kong maintindihan kung ano talaga ang nangyayari kapag pinindot ng isang trader ang **BUY** o **SELL**.
 
 Sa halip na agad gumamit ng totoong pera, nagpasya muna akong matuto gamit ang demo account.
 
