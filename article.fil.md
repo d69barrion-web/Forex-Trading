@@ -12,7 +12,7 @@ Sa halip na agad gumamit ng totoong pera, nagpasya muna akong matuto gamit ang d
 
 Dahil dito, nagkaroon ako ng pagkakataong pag-aralan ang mga bagay na noong una ay medyo nakakalito para sa akin:
 
-- currency pairs gaya ng [EUR/USD](Conversion rate for 1 Euro to United States Dollar https://share.google/MGwFbfywCw43CJSzP)
+- currency pairs gaya ng [EUR/USD](https://share.google/MGwFbfywCw43CJSzP)
 - BUY at SELL orders
 - lot size
 - pips
