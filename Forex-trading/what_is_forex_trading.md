@@ -18,7 +18,7 @@ Halimbawa, mula:
 
 **1.15540 → 1.15550**
 
-Ibig sabihin, mas maraming USD ang katumbas ng isang Euro.
+Ibig sabihin, naging mas maraming USD ang katumbas ng isang Euro.
 
 **Lumakas ang Euro kontra USD.**
 
@@ -30,7 +30,7 @@ Ngayon, kung bumaba naman mula:
 
 **1.15540 → 1.15530**
 
-Mas kaunting USD na ang katumbas ng isang Euro.
+Naging mas kaunting USD na ang katumbas ng isang Euro.
 
 **Lumakas naman ang USD kontra Euro.**
 
