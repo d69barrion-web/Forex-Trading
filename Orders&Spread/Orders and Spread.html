@@ -111,14 +111,14 @@
   <article id="content">Loading article…</article>
 </main>
 <div class="buttons">
-        <a class="btn secondary" href="Forex-trading/What is forex trading.html">Previous article</a>
-        <a class="btn primary" href="Forex-trading/What is forex trading.html">Next article</a>
+        <a class="btn primary" href="Forex-trading/What is forex trading.html">Previous article</a>
+        <a class="btn secondary" href="#section">Next article</a>
       </div>
 <footer>Personal Forex demo-trading journal · For learning and documentation, not financial advice.</footer>
 
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script>
-  fetch("article.fil.md")
+  fetch("forex_orders_and_spread.md")
     .then(r => {
       if (!r.ok) throw new Error("Could not load article.md");
       return r.text();
