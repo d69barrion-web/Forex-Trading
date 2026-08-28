@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Forex ORDERS and SPREAD</title>
+
+  <!-- Open Graph / Facebook / Messenger -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Forex ORDERS and SPREAD">
+  <meta property="og:description" content="Experiences, lessons, and discoveries while learning Forex through demo trading.">
+  <meta property="og:image" content="og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="My Forex Demo Trading Journey">
+  <meta name="twitter:description" content="Experiences, lessons, and discoveries while learning Forex through demo trading.">
+  <meta name="twitter:image" content="og-image.png">
+
+  <style>
+    :root {
+      --navy:#06152e; --blue:#1597ff; --ink:#182235; --muted:#657086;
+      --line:#e4e9f0; --bg:#f5f7fb; --white:#fff;
+    }
+    * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
+    body {
+      margin:0; font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+      color:var(--ink); background:var(--bg); line-height:1.7;
+    }
+    header {
+      position:sticky; top:0; z-index:10; background:rgba(6,21,46,.96);
+      backdrop-filter:blur(12px); color:white; border-bottom:1px solid rgba(255,255,255,.08);
+    }
+    .nav { max-width:1100px; margin:auto; padding:16px 22px; display:flex; align-items:center; justify-content:space-between; gap:20px; }
+    .brand { display:flex; align-items:center; gap:12px; font-weight:800; }
+    .logo { width:38px; height:38px; border:2px solid #1597ff; border-radius:50%; display:grid; place-items:center; font-size:18px; }
+    nav a { color:#dbe7f8; text-decoration:none; margin-left:22px; font-size:14px; font-weight:700; }
+    nav a:hover { color:white; }
+    .hero {
+      background:radial-gradient(circle at 75% 30%,#123c73 0,#06152e 45%,#030b18 100%);
+      color:white; overflow:hidden;
+    }
+    .hero-inner { max-width:1100px; margin:auto; padding:86px 22px 76px; display:grid; grid-template-columns:1.2fr .8fr; gap:50px; align-items:center; }
+    .eyebrow { color:#52b4ff; text-transform:uppercase; letter-spacing:2px; font-weight:800; font-size:13px; }
+    h1 { font-size:clamp(42px,7vw,72px); line-height:1.02; margin:12px 0 22px; letter-spacing:-2px; }
+    .hero p { color:#c7d5e8; max-width:650px; font-size:18px; }
+    .buttons { display:flex; gap:12px; margin-top:30px; flex-wrap:wrap; }
+    .btn { display:inline-block; padding:12px 18px; border-radius:10px; text-decoration:none; font-weight:800; font-size:14px; }
+    .primary { background:#1597ff; color:white; }
+    .secondary { border:1px solid #8094b1; color:white; }
+    .card {
+      background:rgba(255,255,255,.07); border:1px solid rgba(255,255,255,.15);
+      border-radius:18px; padding:24px; box-shadow:0 20px 60px rgba(0,0,0,.25);
+    }
+    .card h3 { margin-top:0; }
+    .stat { display:flex; justify-content:space-between; gap:15px; padding:12px 0; border-bottom:1px solid rgba(255,255,255,.1); }
+    .stat:last-child { border:0; }
+    main { max-width:900px; margin:0 auto; padding:55px 22px 80px; }
+    article { background:white; padding:clamp(25px,5vw,55px); border-radius:18px; box-shadow:0 10px 35px rgba(18,35,60,.07); }
+    article h1 { font-size:42px; letter-spacing:-1px; color:var(--ink); }
+    article h2 { margin-top:42px; font-size:27px; border-left:4px solid var(--blue); padding-left:13px; }
+    article h3 { margin-top:30px; }
+    article img { max-width:100%; border-radius:12px; }
+    article blockquote { margin:25px 0; padding:15px 20px; background:#eef7ff; border-left:4px solid var(--blue); color:#38506c; }
+    article code { background:#eef1f5; padding:2px 6px; border-radius:5px; }
+    article table { width:100%; border-collapse:collapse; margin:20px 0; overflow:hidden; }
+    article th, article td { padding:11px 13px; border:1px solid var(--line); text-align:left; }
+    article th { background:#f3f7fb; }
+    footer { text-align:center; color:#748096; padding:25px; font-size:13px; }
+    .note { margin:28px 0; padding:15px 18px; background:#fff8df; border:1px solid #f0df9b; border-radius:10px; }
+    @media(max-width:760px) {
+      .hero-inner { grid-template-columns:1fr; padding-top:55px; }
+      nav { display:none; }
+      h1 { font-size:45px; }
+      article h1 { font-size:34px; }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="nav">
+    <div class="brand"><div class="logo">📈</div><div>Forex Demo Journal</div></div>
+    <nav><a href="#article">JOURNAL</a><a href="#lessons">LESSONS</a></nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="hero-inner">
+    <div>
+      <div class="eyebrow">A beginner's learning journal</div>
+      <h1>My Forex Demo<br><span style="color:#1597ff">Trading Journey</span></h1>
+      <p>My experiences, experiments, mistakes, and lessons while learning Forex trading through a demo account.</p>
+      <div class="buttons">
+        <a class="btn primary" href="#article">START READING</a>
+        <a class="btn secondary" href="#lessons">WHAT I LEARNED</a>
+      </div>
+    </div>
+    <div class="card">
+      <h3>My Demo Account</h3>
+      <div class="stat"><span>Platform</span><strong>MetaTrader 5</strong></div>
+      <div class="stat"><span>Broker</span><strong>VT Markets</strong></div>
+      <div class="stat"><span>Account</span><strong>Demo</strong></div>
+      <div class="stat"><span>Starting balance</span><strong>$100,000</strong></div>
+      <div class="stat"><span>Purpose</span><strong>Learn & Practice</strong></div>
+    </div>
+  </div>
+</section>
+
+<main id="article">
+  <article id="content">Loading article…</article>
+</main>
+<div class="buttons">
+        <a class="btn secondary" href="Forex-trading/What is forex trading.html">Previous article</a>
+        <a class="btn primary" href="Forex-trading/What is forex trading.html">Next article</a>
+      </div>
+<footer>Personal Forex demo-trading journal · For learning and documentation, not financial advice.</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+  fetch("article.fil.md")
+    .then(r => {
+      if (!r.ok) throw new Error("Could not load article.md");
+      return r.text();
+    })
+    .then(md => {
+      document.getElementById("content").innerHTML = marked.parse(md);
+      document.title = document.querySelector("#content h1")?.textContent || document.title;
+    })
+    .catch(err => {
+      document.getElementById("content").innerHTML =
+        "<h1>Article unavailable</h1><p>Make sure <code>article.md</code> is in the same folder as this HTML file.</p><p>" +
+        err.message + "</p>";
+    });
+</script>
+</body>
+</html>
