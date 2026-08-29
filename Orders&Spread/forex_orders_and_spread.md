@@ -200,7 +200,7 @@ Kapag bumaba ang **Bid Price** hanggang 1.15788:
 ---
 
 ### 3. SELL Stop Limit
-
+![SELLStopLimit](SELLStopLimit.jpg)
 Ito naman ang **kabaligtaran ng BUY Stop Limit**.
 
 May dalawang price level:
@@ -212,38 +212,38 @@ Halimbawa:
 
 Current Bid = **1.15807**
 
-Stop Price = **1.15600**
+Stop Price = **1.15785**
 
-Limit Price = **1.15650**
+Limit Price = **1.15817**
 
 Ang gusto mong mangyari:
 
-> “Kapag bumaba muna sa 1.15600, saka ako maghihintay na umakyat sa 1.15650 bago mag-SELL.”
+> “Kapag bumaba muna sa 1.15785, saka ako maghihintay na umakyat sa 1.15817 bago mag-SELL.”
 
 ### Step-by-step
 
 **①** Bumaba ang presyo:
 
-1.15700 → 1.15650 → 1.15600
+1.15807 → 1.15795 → 1.15785
 
-**②** Pagdating ng Bid Price sa **1.15600**:
+**②** Pagdating ng Bid Price sa **1.15785**:
 
 → Na-trigger ang SELL Stop Limit.
 
 Pero **hindi ka pa agad nagse-SELL**.
 
-Maglalagay ang system ng **SELL Limit order sa 1.15650**.
+Maglalagay ang system ng **SELL Limit order sa 1.15817**.
 
 **③** Kung umakyat ang presyo:
 
-1.15600 → 1.15620 → 1.15650
+1.15785 → 1.15795 → 1.15817
 
 → Ma-e-execute ang SELL Limit  
 → Magiging **OPEN SELL trade**
 
 **④** Kung hindi umakyat at tuloy-tuloy na bumaba:
 
-1.15600 → 1.15500 → 1.15400
+1.15785 → 1.15775 → 1.15765
 
 → Hindi ma-e-execute ang SELL Limit  
 → Wala pang OPEN trade.
@@ -275,11 +275,11 @@ Ang **Spread** ay ang pagitan ng **Ask Price** at **Bid Price**.
 
 Halimbawa:
 
-Ask = **1.15713**
+Ask = **1.15828**
 
-Bid = **1.15703**
+Bid = **1.15807**
 
-Spread = **0.00010 = 1 pip**
+Spread = **0.00021 = 2.1 pip**
 
 Ang spread ay may katumbas na monetary value depende sa **lot size**.
 
