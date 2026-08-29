@@ -85,11 +85,11 @@ Dito ay pumipili ka ng **mas mataas na price** kumpara sa kasalukuyang Ask Price
 
 Halimbawa:
 
-Current Ask = **1.15700**
+Current Ask = **1.15828**
 
-BUY Stop = **1.15800**
+BUY Stop = **1.15840**
 
-Kapag umakyat ang **Ask Price** hanggang 1.15800:
+Kapag umakyat ang **Ask Price** hanggang 1.15840:
 
 → Ma-e-execute ang BUY Stop  
 → Magiging **OPEN BUY trade**
@@ -167,7 +167,7 @@ Dito ay pumipili ka ng **mas mataas na price** kumpara sa kasalukuyang Bid Price
 
 Halimbawa:
 
-Current Bid = **1.15828**
+Current Bid = **1.15807**
 
 SELL Limit = **1.15840**
 
@@ -181,16 +181,16 @@ Kapag umakyat ang **Bid Price** hanggang 1.15840:
 ---
 
 ### 2. SELL Stop
-
+![SELLStop](SELLStop.jpg)
 Dito ay pumipili ka ng **mas mababang price** kumpara sa kasalukuyang Bid Price.
 
 Halimbawa:
 
-Current Bid = **1.15700**
+Current Bid = **1.15807**
 
-SELL Stop = **1.15600**
+SELL Stop = **1.15788**
 
-Kapag bumaba ang **Bid Price** hanggang 1.15600:
+Kapag bumaba ang **Bid Price** hanggang 1.15788:
 
 → Ma-e-execute ang SELL Stop  
 → Magiging **OPEN SELL trade**
@@ -210,7 +210,7 @@ May dalawang price level:
 
 Halimbawa:
 
-Current Bid = **1.15700**
+Current Bid = **1.15807**
 
 Stop Price = **1.15600**
 
