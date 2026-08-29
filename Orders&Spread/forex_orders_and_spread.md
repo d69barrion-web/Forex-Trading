@@ -62,11 +62,11 @@ Dito ay pumipili ka ng **mas mababang price** kumpara sa kasalukuyang Ask Price.
 
 Halimbawa:
 
-Current Ask = **1.15700**
+Current Ask = **1.15828**
 
-BUY Limit = **1.15600**
+BUY Limit = **1.15793**
 
-Kapag bumaba ang **Ask Price** hanggang 1.15600:
+Kapag bumaba ang **Ask Price** hanggang 1.15828:
 
 → Ma-e-execute ang BUY Limit  
 → Magiging **OPEN BUY trade**
