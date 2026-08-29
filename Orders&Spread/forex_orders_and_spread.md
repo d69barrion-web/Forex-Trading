@@ -103,7 +103,7 @@ Parang sinasabi mo:
 ---
 
 ### 3. BUY Stop Limit
-
+![BUYStopLimit](BUYStopLimit.jpg)
 Ang **BUY Stop Limit** ay may **dalawang price level**:
 
 1. **Stop Price** → trigger/pang-trigger
