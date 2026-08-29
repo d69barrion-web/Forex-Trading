@@ -57,7 +57,7 @@ Para sa BUY pending orders, **Ask Price** ang ginagamit na reference sa pag-trig
 May tatlong uri:
 
 ### 1. BUY Limit
-![Buy limit](Buylimit.jpg)
+![BUYLimit](BUYLimit.jpg)
 Dito ay pumipili ka ng **mas mababang price** kumpara sa kasalukuyang Ask Price.
 
 Halimbawa:
