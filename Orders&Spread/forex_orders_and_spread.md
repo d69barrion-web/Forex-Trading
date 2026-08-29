@@ -66,7 +66,7 @@ Current Ask = **1.15828**
 
 BUY Limit = **1.15793**
 
-Kapag bumaba ang **Ask Price** hanggang 1.15828:
+Kapag bumaba ang **Ask Price** hanggang 1.15793:
 
 → Ma-e-execute ang BUY Limit  
 → Magiging **OPEN BUY trade**
