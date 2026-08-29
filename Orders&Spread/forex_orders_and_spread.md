@@ -162,7 +162,7 @@ Para sa SELL pending orders, **Bid Price** ang ginagamit na reference sa pag-tri
 May tatlong uri:
 
 ### 1. SELL Limit
-
+![SELLLimit](SELLLimit.jpg)
 Dito ay pumipili ka ng **mas mataas na price** kumpara sa kasalukuyang Bid Price.
 
 Halimbawa:
