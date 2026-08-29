@@ -167,11 +167,11 @@ Dito ay pumipili ka ng **mas mataas na price** kumpara sa kasalukuyang Bid Price
 
 Halimbawa:
 
-Current Bid = **1.15700**
+Current Bid = **1.15828**
 
-SELL Limit = **1.15800**
+SELL Limit = **1.15840**
 
-Kapag umakyat ang **Bid Price** hanggang 1.15800:
+Kapag umakyat ang **Bid Price** hanggang 1.15840:
 
 → Ma-e-execute ang SELL Limit  
 → Magiging **OPEN SELL trade**
