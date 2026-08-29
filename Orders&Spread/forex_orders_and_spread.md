@@ -80,7 +80,7 @@ Parang sinasabi mo:
 ---
 
 ### 2. BUY Stop
-
+![BUYStop](BUYStop.jpg)
 Dito ay pumipili ka ng **mas mataas na price** kumpara sa kasalukuyang Ask Price.
 
 Halimbawa:
