@@ -13,7 +13,7 @@ Ang market order ay isang order na **ine-execute agad** sa kasalukuyang availabl
 
 May dalawang presyo sa market:
 
-![chart](Screenshot_2026-08-28-19-14-29-12_0bea77daeacc231008e293164131bafa.jpg)
+![chart](chart.jpg)
 
 - **Ask Price** — presyo kung saan bumibili ang trader.
 - **Bid Price** — presyo kung saan nagbebenta ang trader.
