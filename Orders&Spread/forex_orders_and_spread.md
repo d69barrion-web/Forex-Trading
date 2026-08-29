@@ -111,40 +111,40 @@ Ang **BUY Stop Limit** ay may **dalawang price level**:
 
 Halimbawa:
 
-Current Ask = **1.15700**
+Current Ask = **1.15828**
 
-Stop Price = **1.15800**
+Stop Price = **1.15840**
 
-Limit Price = **1.15750**
+Limit Price = **1.15797**
 
 Ang gusto mong mangyari:
 
-> “Kapag umakyat muna sa 1.15800, saka ako maghihintay na bumaba sa 1.15750 bago bumili.”
+> “Kapag umakyat muna sa 1.15840, saka ako maghihintay na bumaba sa 1.15797 bago bumili.”
 
 ### Step-by-step
 
 **①** Umaakyat ang presyo:
 
-1.15700 → 1.15750 → 1.15800
+1.15828 → 1.15830 → 1.15840
 
-**②** Pagdating ng Ask Price sa **1.15800**:
+**②** Pagdating ng Ask Price sa **1.15840**:
 
 → Na-trigger ang BUY Stop Limit.
 
 Pero **hindi ka pa agad nakakabili.**
 
-Sa puntong ito, ang system ay maglalagay ng **BUY Limit order sa 1.15750**.
+Sa puntong ito, ang system ay maglalagay ng **BUY Limit order sa 1.15797**.
 
 **③** Kung bumaba ang presyo:
 
-1.15800 → 1.15780 → 1.15750
+1.15840 → 1.15828 → 1.15797
 
 → Ma-e-execute ang BUY Limit  
 → Magiging **OPEN BUY trade**
 
 **④** Kung hindi bumaba at tuloy-tuloy na umakyat:
 
-1.15800 → 1.15900 → 1.16000
+1.15840 → 1.15850 → 1.15860
 
 → Hindi ma-e-execute ang BUY Limit  
 → Wala pang OPEN trade.
